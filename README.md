@@ -1,0 +1,1 @@
+# revelo-talk-design-patterns
